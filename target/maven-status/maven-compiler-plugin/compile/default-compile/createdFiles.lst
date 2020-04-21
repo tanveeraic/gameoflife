@@ -1,0 +1,4 @@
+com\practice\gameoflife\GameOfLife.class
+com\practice\gameoflife\exceptions\ApplicationFailureException.class
+com\practice\gameoflife\GameOfLifeApplication.class
+com\practice\gameoflife\exceptions\SeedOutOfBoundsException.class
